@@ -1,0 +1,19 @@
+.checkbox {
+
+    width: 20px;
+    height: 20px;
+    margin-right: 10px;
+    background:  #77a2ca;
+}
+
+.checkbox:checked{
+    appearance: none;
+
+}
+.checkbox:focus{
+    outline: #99ff;
+}
+
+.spanClassName {
+
+}

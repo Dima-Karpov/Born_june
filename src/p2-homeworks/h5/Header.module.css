@@ -1,0 +1,46 @@
+.link{
+    text-decoration: none;
+    color: red;
+    margin: 10px;
+}
+
+.link:hover {
+    color: green;
+    transition: all 2s linear;
+    transition-duration: 1000ms;
+    transform: rotateY(360deg);
+}
+.active{
+    color: turquoise;
+}
+
+.blok{
+   width: 30px;
+   height: 30px;
+   margin: 30px;
+
+    background-color: rgb(228, 20, 124);
+}
+.blok:hover{
+    transition: all 2s linear;
+    transition-duration: 500ms;
+    transform: rotate(360deg);
+}
+
+.header{
+    display: flex;
+    align-items: center;
+    cursor: pointer;
+
+    transition: all 2s linear;
+ 
+
+    transition-duration: 100ms;
+    transform: translateX(-220px);
+}
+
+.header:hover {
+    transition-duration: 100ms;
+
+    transform: translateX(0);
+}
