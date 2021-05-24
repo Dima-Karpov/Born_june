@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/Born_june/static/css/main.4826efbb.chunk.css",
-    "main.js": "/Born_june/static/js/main.b4255555.chunk.js",
-    "main.js.map": "/Born_june/static/js/main.b4255555.chunk.js.map",
-    "runtime-main.js": "/Born_june/static/js/runtime-main.3bf086b9.js",
-    "runtime-main.js.map": "/Born_june/static/js/runtime-main.3bf086b9.js.map",
-    "static/js/2.27135055.chunk.js": "/Born_june/static/js/2.27135055.chunk.js",
-    "static/js/2.27135055.chunk.js.map": "/Born_june/static/js/2.27135055.chunk.js.map",
-    "index.html": "/Born_june/index.html",
-    "static/css/main.4826efbb.chunk.css.map": "/Born_june/static/css/main.4826efbb.chunk.css.map",
-    "static/js/2.27135055.chunk.js.LICENSE.txt": "/Born_june/static/js/2.27135055.chunk.js.LICENSE.txt"
+    "main.css": "/born_june/static/css/main.f7dd7f3b.chunk.css",
+    "main.js": "/born_june/static/js/main.e9aefc41.chunk.js",
+    "main.js.map": "/born_june/static/js/main.e9aefc41.chunk.js.map",
+    "runtime-main.js": "/born_june/static/js/runtime-main.e70bc7f1.js",
+    "runtime-main.js.map": "/born_june/static/js/runtime-main.e70bc7f1.js.map",
+    "static/js/2.cc7a6409.chunk.js": "/born_june/static/js/2.cc7a6409.chunk.js",
+    "static/js/2.cc7a6409.chunk.js.map": "/born_june/static/js/2.cc7a6409.chunk.js.map",
+    "index.html": "/born_june/index.html",
+    "static/css/main.f7dd7f3b.chunk.css.map": "/born_june/static/css/main.f7dd7f3b.chunk.css.map",
+    "static/js/2.cc7a6409.chunk.js.LICENSE.txt": "/born_june/static/js/2.cc7a6409.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.3bf086b9.js",
-    "static/js/2.27135055.chunk.js",
-    "static/css/main.4826efbb.chunk.css",
-    "static/js/main.b4255555.chunk.js"
+    "static/js/runtime-main.e70bc7f1.js",
+    "static/js/2.cc7a6409.chunk.js",
+    "static/css/main.f7dd7f3b.chunk.css",
+    "static/js/main.e9aefc41.chunk.js"
   ]
 }
