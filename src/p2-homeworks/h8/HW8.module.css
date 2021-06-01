@@ -1,0 +1,11 @@
+.item{
+    display: flex;
+    justify-content: space-between;
+    width: 200px;
+    margin-left: 10px;
+    color: red;
+}
+.button {
+    margin-right: 5px;
+    max-width: 30%;
+  }
