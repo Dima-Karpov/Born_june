@@ -1,5 +1,6 @@
 
 const SET_IS_LOADING = 'SET-IS-LOADING';
+
 const initState = {
     isLoading: false
 };
