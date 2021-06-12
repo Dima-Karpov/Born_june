@@ -8,7 +8,20 @@ const initialState = {
     user: [] as Array<UserType>
 };
 
-export const homeWorkReducer = (state:  Array<UserType>, action: any): Array<UserType> => { // need to fix any
+type SortUpAT = {
+    type: 'sort-up'
+    payload: 'up'
+}
+type SortDownAT = {
+    type: 'sort-down'
+    payload: 'down'
+}
+type CheckAT = {
+    type: 'check'
+    payload: '18'
+}
+
+export const homeWorkReducer = (state:  Array<UserType>, action: SortUpAT | SortDownAT | CheckAT): Array<UserType> => {
     switch (action.type) {
         case 'sort-up': 
             return [ ...state].sort((a,b) => a.name < b.name? 1:  -1)
