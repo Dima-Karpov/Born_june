@@ -1,9 +1,10 @@
 import React from 'react'
+import Error404 from './Error404';
 
 export const JuniorPlus = () => {
     return (
         <div>
-            JuniorPlus
+            <Error404/>
         </div>
     );
 }
