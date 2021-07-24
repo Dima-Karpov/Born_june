@@ -2,11 +2,11 @@ import React from "react";
 import { useDispatch, useSelector } from "react-redux";
 import SuperButton from "../h4/common/c2-SuperButton/SuperButton";
 import { loadingAC } from "./bll/loadingReducer";
-import { AppStoreType } from "./bll/store";
+import { RootState } from "./bll/store";
 import { Preloader } from "./preloader/preloader";
 
 function HW10() {
-    const isLoading = useSelector((state: AppStoreType) => state.loading.isLoading);
+    const isLoading = useSelector((state: RootState) => state.loading.isLoading);
     const dispatch = useDispatch()
     // useSelector, useDispatch
     // const isloading = false;
