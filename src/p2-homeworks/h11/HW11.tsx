@@ -24,7 +24,7 @@ function HW11() {
             <div>
                 <span>{value1}</span>
                 <SuperDoubleRange
-                    value={[20,56]}
+                    value={[0,100]}
                     min={value1}
                     max={value2}
                 />
